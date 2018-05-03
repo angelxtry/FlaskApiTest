@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExternCTest", "ExternCTest\ExternCTest.vcxproj", "{A0B2A184-BCE1-4FCE-B905-0A5A6A6EDBF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B2A184-BCE1-4FCE-B905-0A5A6A6EDBF9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A0B2A184-BCE1-4FCE-B905-0A5A6A6EDBF9}.Debug|Win32.Build.0 = Debug|Win32
+		{A0B2A184-BCE1-4FCE-B905-0A5A6A6EDBF9}.Release|Win32.ActiveCfg = Release|Win32
+		{A0B2A184-BCE1-4FCE-B905-0A5A6A6EDBF9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
